@@ -41,7 +41,7 @@
 
 ### 🏆 Recent Achievements
 
-- 🔐 Implemented RBAC system at CIVA, enhancing system security
+- 🔐 Implemented RBAC system, enhancing system security
 - ⚡ Optimized data processes, achieving 30% faster execution
 - 🌐 Developed currency exchange platform with real-time integrations
 - 📊 Created dynamic visualizations for financial trend analysis
