@@ -9,9 +9,8 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working at **CIVA** as a Full Stack Developer
+- 🔭 I'm currently working at **ENVIAME** as a Full Stack Developer
 - 🌱 I'm currently pursuing a **Bachelor's in Software Engineering**
-- 💼 Working on **FLIT**, an enterprise-level transportation ERP system
 - 🎯 Ranked in the **top fifth** of my class consistently
 - 🌟 GPA: **17.70/20**
 - 🔍 Always exploring new technologies and methodologies
