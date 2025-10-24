@@ -9,7 +9,6 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working at **ENVIAME** as a Full Stack Developer
 - 🌱 I'm currently pursuing a **Bachelor's in Software Engineering**
 - 🎯 Ranked in the **top fifth** of my class consistently
 - 🌟 GPA: **17.70/20**
